@@ -1,0 +1,14 @@
+$layoutBG:#ccc;
+body,.cover{
+    position:absolute;
+    height:100%;
+    width:100%;
+}
+html,body{
+    margin:0;
+    overflow:hidden;
+    body{
+        background-color: $layoutBG;
+    }
+}
+

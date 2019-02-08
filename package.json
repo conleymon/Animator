@@ -1,0 +1,27 @@
+{
+  "name": "deep-animator",
+  "version": "1.0.8",
+  "description": "deep object animation",
+  "main": "animator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Conley Johnson",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  },
+  "keywords": [
+    "deep-animation",
+    "simple-animation",
+    "animation",
+    "animator",
+    "deep-object-animation",
+    "deep-object-animator",
+    "independent-transform",
+    "independent-transform-animation",
+    "color-animation",
+    "css-color-animation"
+  ]
+}
